@@ -1,0 +1,20 @@
+body{
+    background-color:burlywood;
+  }
+  li{
+    color:black;
+    
+  }
+  h1{
+    text-align: center;
+    color: #eaf2f9;
+  }
+  .experience{
+    text-align: center;
+  }
+
+  .project{
+    border: 5px solid white;
+    width: 200px;
+    padding: 5pxpx;
+  }
