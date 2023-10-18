@@ -1,5 +1,20 @@
 body{
-    background-color:burlywood;
+    background-color:rgb(246, 244, 245);
+  }
+  .container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+  .container > *{
+    border:2px solid #ac2a20;
+    
+  }
+  .he{
+    margin: 0;
+    padding: 0;
+    border: 2px solid;
   }
   li{
     color:black;
@@ -7,14 +22,16 @@ body{
   }
   h1{
     text-align: center;
-    color: #eaf2f9;
+    color: #ac2a20;
+
   }
-  .experience{
-    text-align: center;
+  h2{
+    color: #ac2a20;
   }
+  
 
   .project{
-    border: 5px solid white;
+    border: 5px solid cadetblue;
     width: 200px;
-    padding: 5pxpx;
+    padding: 5px;
   }
