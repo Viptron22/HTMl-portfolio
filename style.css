@@ -1,5 +1,7 @@
 body{
     background-color:rgb(246, 244, 245);
+    background-image: url("assets/_cf186996-1c8d-4564-9aab-48ea6dd4f16e.jpeg");
+    color: white;
   }
   .container{
     display: flex;
@@ -8,7 +10,7 @@ body{
     
   }
   .container > *{
-    border:2px solid #ac2a20;
+    border:1px solid #ac2a20;
     
   }
   .he{
